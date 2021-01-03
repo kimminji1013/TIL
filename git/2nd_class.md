@@ -181,6 +181,8 @@
 
 ##### 수동 merge
 
+![image-20201230150553338](2nd_class.assets/image-20201230150553338.png)
+
 상황3  : 서로 다른 branch로 겹치는 부분을 수정 후 merge 한 경우, 수정된 두 내용을 모두 보여주어 수동으로 처리하도록 해 줌. (VC code를 이용하면 선택지를 주기에 수월함)
 
 > *위 git_learn 이라는 git 폴더에서  최종적으로 contact branch와 merge한 master branch(12번)에서 이어서 실습.*
@@ -247,8 +249,6 @@
    ```
 
    
-
-![image-20201230150553338](2nd_class.assets/image-20201230150553338.png)
 
 ![image-20201230150633082](2nd_class.assets/image-20201230150633082.png)
 
