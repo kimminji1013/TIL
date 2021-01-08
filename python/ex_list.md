@@ -8,7 +8,7 @@ a=10
 test1(a) # 값의 복사본이 넘어감. 함수 끝나고 return 되면서 저장된 a=20데이타는 사라짐.
 print(a)
 
-```# call by reference
+​```# call by reference
 def test2(l):
     l[0]=20
 a=10
@@ -16,8 +16,26 @@ test2(l) #참조형이 넘어간 후, 참조 데이터(원본 데이터)가 변�
 함수가 끝나면서 생겼던 함수의 l 지역변수는 사라짐. 
 print(l)
 
-!사진 2개 넣기
 
 
 
 
+
+
+```
+
+
+
+
+
+![일반형 참조형 변수 copy 비교](ex_list.assets/일반형 참조형 변수 copy 비교.jpg)
+
+
+
+
+
+
+
+
+
+![list copy 대표 예시](ex_list.assets/list copy 대표 예시.jpg)
