@@ -6,7 +6,7 @@
 
 1. 기본형 (Primitive Type) : 실제 값(literal)을 저장한다.
 
-   (ex) 숫자, 문자, booling(True/False) etc...
+   (ex) 숫자, booling(True/False) 
 
 2. 참조형 (Reference Type) : instance의 주소값(참조값)을 저장한다.
 
